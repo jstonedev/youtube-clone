@@ -20,6 +20,12 @@ To access the application, please visit: https://yt-clone-site.netlify.app/
 
 ![Home](./src/images/home-demo.png)
 
+### **_Video Detail Page_**
+
+---
+
+![Video Detail](./src/images/video-detail-demo.png)
+
 ### **_Search Page_**
 
 ---
