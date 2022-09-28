@@ -6,7 +6,7 @@ To access the application, please visit: https://yt-clone-site.netlify.app/
 
 ## Packages and API Used:
 
-1. Material UI
+1. Material UI (v5)
 2. React Router
 3. Axios
 4. React Player
